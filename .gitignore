@@ -1,0 +1,12 @@
+# Ignorisanje keš fajlova i privremenih Python fajlova
+__pycache__/
+*.pyc
+
+# Ignorisanje poverljivih podataka
+config.json
+
+# Ignorisanje slika 
+*.png
+*.jpg
+*.jpeg
+*.gif
